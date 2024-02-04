@@ -76,3 +76,8 @@ Declaration on CSS file
 @font-face {font-family: "qumbul7";src: url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.woff2") format("woff2"),url("https://cdn.jsdelivr.net/gh/thetruetruth/quran-data-kfgqpc@main/qumbul/font/qumbul.7.ttf") format("truetype");}
 ```# KFGQPC
 # KFGQPC
+
+
+
+
+2024
